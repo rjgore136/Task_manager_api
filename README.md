@@ -69,7 +69,7 @@ Authorization: Bearer <your-token>
 ├── routes/               # API route definitions
 ├── utils/                # Helper functions and in memory data storage
 ├── app.js                # Express app setup and middleware configuration
-├── app.js                # Stores port number and JWT Secret
+├── .env                  # Stores port number and JWT Secret
 ├── index.js              # Entry point
 ├── README.md
 └── package.json
